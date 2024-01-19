@@ -1,0 +1,5 @@
+PATH=/home/madhusree/.npm-global/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+HOME=/home/madhusree
+USER=madhusree
+HOSTNAME=Inspiron
+PS1=$
